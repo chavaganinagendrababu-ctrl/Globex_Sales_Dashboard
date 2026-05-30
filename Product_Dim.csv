@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Product_Category,Brand,Launch_Year
+1,Electronics Product 1,Electronics,BrandC,2020
+2,Electronics Product 2,Electronics,BrandB,2018
+3,Electronics Product 3,Electronics,BrandB,2018
+4,Electronics Product 4,Electronics,BrandB,2015
+5,Electronics Product 5,Electronics,BrandB,2015
+6,Electronics Product 6,Electronics,BrandC,2021
+7,Electronics Product 7,Electronics,BrandB,2024
+8,Electronics Product 8,Electronics,BrandB,2023
+9,Electronics Product 9,Electronics,BrandA,2021
+10,Electronics Product 10,Electronics,BrandC,2020
+11,Home Appliances Product 1,Home Appliances,BrandB,2019
+12,Home Appliances Product 2,Home Appliances,BrandB,2024
+13,Home Appliances Product 3,Home Appliances,BrandC,2022
+14,Home Appliances Product 4,Home Appliances,BrandB,2016
+15,Home Appliances Product 5,Home Appliances,BrandB,2016
+16,Home Appliances Product 6,Home Appliances,BrandB,2020
+17,Home Appliances Product 7,Home Appliances,BrandA,2022
+18,Home Appliances Product 8,Home Appliances,BrandC,2016
+19,Home Appliances Product 9,Home Appliances,BrandA,2020
+20,Home Appliances Product 10,Home Appliances,BrandC,2024
+21,Clothing Product 1,Clothing,BrandA,2021
+22,Clothing Product 2,Clothing,BrandA,2015
+23,Clothing Product 3,Clothing,BrandA,2017
+24,Clothing Product 4,Clothing,BrandC,2020
+25,Clothing Product 5,Clothing,BrandB,2022
+26,Clothing Product 6,Clothing,BrandB,2019
+27,Clothing Product 7,Clothing,BrandB,2017
+28,Clothing Product 8,Clothing,BrandC,2024
+29,Clothing Product 9,Clothing,BrandC,2020
+30,Clothing Product 10,Clothing,BrandB,2022
+31,Furniture Product 1,Furniture,BrandA,2015
+32,Furniture Product 2,Furniture,BrandB,2016
+33,Furniture Product 3,Furniture,BrandB,2019
+34,Furniture Product 4,Furniture,BrandB,2016
+35,Furniture Product 5,Furniture,BrandC,2023
+36,Furniture Product 6,Furniture,BrandC,2016
+37,Furniture Product 7,Furniture,BrandC,2022
+38,Furniture Product 8,Furniture,BrandB,2016
+39,Furniture Product 9,Furniture,BrandB,2018
+40,Furniture Product 10,Furniture,BrandB,2024
+41,Stationery Product 1,Stationery,BrandB,2021
+42,Stationery Product 2,Stationery,BrandC,2020
+43,Stationery Product 3,Stationery,BrandB,2021
+44,Stationery Product 4,Stationery,BrandC,2016
+45,Stationery Product 5,Stationery,BrandA,2020
+46,Stationery Product 6,Stationery,BrandB,2016
+47,Stationery Product 7,Stationery,BrandB,2023
+48,Stationery Product 8,Stationery,BrandA,2017
+49,Stationery Product 9,Stationery,BrandA,2024
+50,Stationery Product 10,Stationery,BrandC,2024
